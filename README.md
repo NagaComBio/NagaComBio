@@ -19,6 +19,9 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2]
 [1]: https://twitter.com/naga_rna
 [2]: https://www.linkedin.com/in/nagarna
 
+<!-- Medium posts -->
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@itsfornaga/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@itsfornaga/0" alt="Recent Article 0"> 
+  
 <!--
 **NagaComBio/NagaComBio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
