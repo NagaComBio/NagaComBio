@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Nagarajan Paramasivam, a senior bioinformatician at DKFZ/NCT, Heidelberg, Germany. I am in interested in genomics and data science.
+Hello, my name is Nagarajan Paramasivam and I work as a senior bioinformatician at DKFZ/NCT located in Heidelberg, Germany. My passion lies in the fields of genomics and data science.
 
 ![Naga's GitHub stats](https://github-readme-stats.vercel.app/api?username=NagaComBio&show_icons=true&theme=radical) ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NagaComBio&theme=radical&layout=compact) 
 
