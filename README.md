@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-Hello, my name is Nagarajan Paramasivam and I work as a senior bioinformatician at DKFZ/NCT located in Heidelberg, Germany. My passion lies in the fields of genomics and data science.
-
-![Naga's GitHub stats](https://github-readme-stats.vercel.app/api?username=NagaComBio&show_icons=true&theme=radical) ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NagaComBio&theme=radical&layout=compact) 
+My name is Nagarajan Paramasivam, and I serve as a senior bioinformatician at DKFZ/NCT, Heidelberg, Germany. I possess a strong passion for the fields of genomics and data science, where I apply my expertise to advance research and innovation.
 
 <!-- from https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 <!-- Actual text -->
